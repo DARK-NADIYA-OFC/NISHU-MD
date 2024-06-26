@@ -1,15 +1,15 @@
 {
   "name": "NISHU-MD",
   "version": "0.0.7",
-  "description": "Multi device whatsapp bot by Blade.",
+  "description": "Multi device whatsapp bot by NISHU-MD.",
   "main": "lib/client.js",
   "type": "commonjs",
   "license": "GPL-3.0",
   "scripts": {
     "start": "pm2 start lib/client.js --deep-monitoring --attach --name NISHU",
-    "stop": "pm2 stop nishu"
+    "stop": "pm2 stop NISHU"
   },
-  "author": "Alextv",
+  "author": "NISHU-MD",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
