@@ -5,10 +5,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=25&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=480&height=60&lines=%E2%9A%98+THANKS+FOR +THE+CHOOSING+US+CYCBER TITANS OFC+%F0%9F%90%9D" alt="Typing SVG" /></a>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+NISHU-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ TEAM CYBER TITANS ;PUBLIC+RELESED+DATE;2024/06/28;." alt="Typing SVG" /></a>
-  </p>
 <p align="center">
 <img alt=Support height="300" src="https://telegra.ph/file/5852326bb1f91a21d2b85.jpg"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+NISHU-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ TEAM CYBER TITANS ;PUBLIC+RELESED+DATE;2024/06/28;." alt="Typing SVG" /></a>
+  </p>
 
 <p align="center">
 ***SPECIAL THANKS FOR SECTOR BOT***
